@@ -10,4 +10,9 @@ body {
 .root {
   width: 600px;
   margin: auto;
+  --primary-bg-color: #458ef7;
+  --primary-bg-color-hover: #3672cb;
+  --secondary-font-color: white;
+  --light-font-color: #b1b1b1;
+  --highlight-border-color: black;
 }
